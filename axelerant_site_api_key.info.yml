@@ -1,0 +1,5 @@
+name: Axelerant Site API Key Custom Module
+description: Custom module for drupal developer profile
+core: 8.x
+type: module
+package: Axelerant
